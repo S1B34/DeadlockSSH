@@ -22,8 +22,8 @@ Guess what? You probably already have everything you need. If you've got Python 
 
 ```bash
 # Just clone or download the files. That's it. Seriously.
-git clone [your-repo-link-here]
-cd [your-repo-folder]
+git clone https://github.com/S1B34/DeadlockSSH
+cd DeadlockSSH  
 ```
 
 ## Let's Light This Candle! (Quick Start)
