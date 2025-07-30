@@ -1,4 +1,4 @@
-# 🍯 DeadlockSSH: The Goofiest SSH Honeypot on the Block
+#DeadlockSSH: The Goofiest SSH Honeypot on the Block
 
 Ever wondered what script kiddies and bots are up to? Do you have a burning desire to watch them fumble around in a digital sandbox you control? Well, my friend, you've stumbled upon the perfect project!
 
